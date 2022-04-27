@@ -1,0 +1,8 @@
+name: ChatInjector
+version: '${project.version}'
+main: it.anonymousstar02.chatinjector.ChatInjector
+api-version: 1.18
+prefix: ChatInjector
+depend: [ Essentials, PlaceholderAPI ]
+authors: [ AnonymousStar02 ]
+description: a papi injector for essentialsx
